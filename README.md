@@ -1,2 +1,2 @@
-# git_tytorial
+# git_tutorial
 https://greeksharifa.github.io/github/2018/06/29/github-usage-02-create-project/ 따라하기
