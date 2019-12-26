@@ -1,5 +1,14 @@
-# Colab 실험 코드 모음
+# Colab 관련 자료
 
 
 ### colab 참고 사이트
 https://zzsza.github.io/data/2018/08/30/google-colab/
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+
+### google colab seedbank
+https://research.google.com/seedbank/
+
+### google ML 학습 
+https://developers.google.com/machine-learning/crash-course
+
+
