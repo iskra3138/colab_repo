@@ -11,4 +11,5 @@ https://research.google.com/seedbank/
 ### google ML 학습 
 https://developers.google.com/machine-learning/crash-course
 
-
+### 구글 Colab을 이용한 BERT-Base Model 학습하기
+https://blog.nerdfactory.ai/2019/04/25/learn-bert-with-colab.html
